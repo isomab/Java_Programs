@@ -20,5 +20,6 @@ public class Overloading {
     }
 }
 
+//One entity that behaves differently in different cases called as polymorphism.
 //Compile-time polymorphism occurs when multiple methods in the same class share the same name but differ in their method signatures (i.e., parameter count or types).
 // The method call is resolved at compile time based on the method signature.
